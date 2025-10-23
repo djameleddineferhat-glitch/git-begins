@@ -1,0 +1,5 @@
+git clone <https://github.com/djameleddineferhat-glitch/git-begins.git> 
+git add. 
+git commit -m "message de commit" 
+git push origin main  
+git pull origin main 
